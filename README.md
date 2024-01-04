@@ -1,5 +1,5 @@
 # Shopping
-![Shopping](gif.gif)
+
 
 
 # React + Vite
